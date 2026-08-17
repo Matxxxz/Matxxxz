@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USERNAME-AQUI&color=006bed" alt="Profile views" />
-</div>
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções em engenharia e software.
@@ -38,12 +34,12 @@
 
 <div align="center">
   <a href="https://github.com/Matxxxz" title="Perfil do Mateus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&theme=dracula&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matxxxz&theme=dracula&show_icons=true" />
   </a>
 </div>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Mateus_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/mateus-augusto-guimar%C3%A3es-26160534a/)
-[![Gmail Badge](https://img.shields.io/badge/-Contato-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mateusag81@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/SEU-USERNAME-AQUI?label=follow&style=social)](https://github.com/Matxxxz)
+[![Linkedin](https://img.shields.io/badge/-Mateus_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-augusto-guimar%C3%A3es-26160534a/)](https://www.linkedin.com/in/mateus-augusto-guimar%C3%A3es-26160534a/)
+[![Gmail Badge](https://img.shields.io/badge/-Contato-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusag81@gmail.com)](mailto:mateusag81@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Matxxxz?label=follow&style=social)](https://github.com/Matxxxz)
