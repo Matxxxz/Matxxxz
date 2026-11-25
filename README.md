@@ -29,7 +29,7 @@ Também participo de iniciativas acadêmicas e comunidades de tecnologia:
 
 - **IEEE Computer Society**
 - **Liga de IoT (LAR)**
-- **Liga de Cibersegurança (Uratec)**
+- **Liga de Cibersegurança (UrutauSec)**
 
 ## 🚀 Projetos em destaque
 
